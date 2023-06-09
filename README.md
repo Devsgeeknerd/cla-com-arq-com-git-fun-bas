@@ -1,23 +1,26 @@
-# ECMASCRIPT 6+ (ES6+)
+<!-- Título -->
+# Commitando Arquivos
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] Introdução ao ES6.
-- [ ] Diferença Entre Var, Let e Const.
-- [ ] Uso de Variáveis em Strings.
-- [ ] Desconstruindo Objetos e Arrays.
-- [ ] Objeto Literal.
-- [ ] Exercício — AddEndereco.
-- [ ] Operador — Spread.
-- [ ] Operador — Rest.
-- [ ] Funções Anônimas.
-- [ ] Valor Padrão no Parâmetro.
-- [ ] Código Modular com import e Export.
-- [ ] Classes no ES6.
-- [ ] Promise.
-- [ ] Fetch.
-- [ ] Async e Await.
+* Comandos utilizado:
+  * git add index.html;
+  * git commit -m "adicionando um h1 a pagina index.html";
+  * git status;
 
-## INFORMAÇÕES
+<!-- Informações -->
+## &#8505; Informações
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd.ecmascript-6-front-end-zp "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-com-arq-com-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-com-arq-com-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-com-arq-com-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-com-arq-com-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-com-arq-com-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-com-arq-com-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
